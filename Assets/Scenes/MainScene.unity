@@ -824,11 +824,12 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"buttonRotateLeft","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
       UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"buttonRotateRight","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"modelObject","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"modelObject","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 538517106}
     - {fileID: 538517105}
+    - {fileID: 7058103827190936682, guid: 398fe0223151d6a41a3a897017afa1c5, type: 3}
 --- !u!4 &943719930
 Transform:
   m_ObjectHideFlags: 0
@@ -910,7 +911,7 @@ MonoBehaviour:
   m_SerializedLibrary: {fileID: 11400000, guid: e9bfce5ea60e3894483fae40eb674a2f,
     type: 2}
   m_MaxNumberOfMovingImages: 0
-  m_TrackedImagePrefab: {fileID: 366428452883267241, guid: 1a07e1c59d1ee714a96f2b1c8f3e17a2,
+  m_TrackedImagePrefab: {fileID: 7058103827190936682, guid: 398fe0223151d6a41a3a897017afa1c5,
     type: 3}
 --- !u!1 &1167446570
 GameObject:
